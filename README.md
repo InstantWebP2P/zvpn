@@ -1,5 +1,5 @@
 # zvpn
-Peer-to-Peer VPN built with AppNet.link protocol
+Peer-to-Peer VPN built with [AppNet.link](https://github.com/InstantWebP2P/appnet.link) protocol
 
 ### Features
 
